@@ -1,0 +1,84 @@
+{
+	"type": "pane",
+	"name": "pane0",
+	"nodes": [
+		{
+			"type": "tab",
+			"name": "tab7",
+			"path": "/lab1/LearnCS8-Twilio/product.css",
+			"className": [
+				"tab7",
+				"collab-connected"
+			],
+			"document": {
+				"changed": false,
+				"meta": {
+					"ignoreState": false,
+					"ephemeral": false,
+					"timestamp": 1675799467235
+				},
+				"filter": true,
+				"title": "product.css",
+				"tooltip": "/lab1/LearnCS8-Twilio/product.css",
+				"ace": {}
+			},
+			"editorType": "ace",
+			"active": false
+		},
+		{
+			"type": "tab",
+			"name": "tab8",
+			"path": "/lab1/LearnCS8-Twilio/index.html",
+			"className": [
+				"tab8",
+				"collab-connected"
+			],
+			"document": {
+				"changed": false,
+				"meta": {
+					"ignoreState": false,
+					"ephemeral": false,
+					"timestamp": 1675809121856
+				},
+				"filter": true,
+				"title": "index.html",
+				"tooltip": "/lab1/LearnCS8-Twilio/index.html",
+				"ace": {}
+			},
+			"editorType": "ace",
+			"active": false
+		},
+		{
+			"type": "tab",
+			"name": "preview-/lab1/LearnCS8-Twilio/index.html",
+			"path": "",
+			"className": [
+				"preview--lab1-LearnCS8-Twilio-index-html",
+				"focus"
+			],
+			"document": {
+				"changed": false,
+				"meta": {},
+				"filter": true,
+				"title": "[P] /lab1/LearnCS8-Twilio/index.html",
+				"preview": {
+					"path": "/lab1/LearnCS8-Twilio/index.html",
+					"previewer": "previewBrowser",
+					"disableInjection": true
+				}
+			},
+			"editorType": "preview",
+			"active": true
+		}
+	],
+	"skin": "editor_tab",
+	"skinset": "default",
+	"meta": {
+		"accessList": [
+			"preview-/lab1/LearnCS8-Twilio/index.html",
+			"tab8",
+			"tab7"
+		]
+	},
+	"focus": "preview-/lab1/LearnCS8-Twilio/index.html"
+}

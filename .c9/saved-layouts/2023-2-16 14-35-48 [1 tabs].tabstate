@@ -1,0 +1,38 @@
+{
+	"type": "pane",
+	"name": "pane0",
+	"nodes": [
+		{
+			"type": "tab",
+			"name": "tab0",
+			"path": "/lab1/LearnCS8-Twilio/index.html",
+			"className": [
+				"tab0",
+				"focus",
+				"collab-connected"
+			],
+			"document": {
+				"changed": false,
+				"meta": {
+					"ignoreState": false,
+					"ephemeral": false,
+					"timestamp": 1675809121856
+				},
+				"filter": true,
+				"title": "index.html",
+				"tooltip": "/lab1/LearnCS8-Twilio/index.html",
+				"ace": {}
+			},
+			"editorType": "ace",
+			"active": true
+		}
+	],
+	"skin": "editor_tab",
+	"skinset": "default",
+	"meta": {
+		"accessList": [
+			"tab0"
+		]
+	},
+	"focus": "/lab1/LearnCS8-Twilio/index.html"
+}
